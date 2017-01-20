@@ -1,2 +1,6 @@
 wjdsajjd
+<<<<<<< HEAD
 This is edited and added to the main branch
+=======
+I made a develop branch
+>>>>>>> develop
